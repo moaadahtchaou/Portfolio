@@ -253,7 +253,7 @@
 
 body {
   background-color: var(--fantasy);
-  background-image: url(./assets/Union_mobile.png);
+  background-image: url(../public/assets/Union_mobile.png);
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -265,7 +265,7 @@ a {
 }
 @media (min-width: 800px) {
   body {
-    background-image: url(./assets/Union.png);
+    background-image: url(../public/assets/Union.png);
   }
   .container {
     margin: 0 30px;
@@ -643,7 +643,7 @@ form .spartan-semi-bold-astronaut-14px {
 /*Footer*/
 
 footer {
-  background-image: url(./assets/Union_Footer_Mobile.png);
+  background-image: url(../public/assets/Union_Footer_Mobile.png);
 }
 footer > p {
   display: block;
